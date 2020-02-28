@@ -1,0 +1,15 @@
+--- # Authors And Books
+authors:
+  -
+    first_name: Madeleine
+    last_name: L'Engle
+    books:
+        -
+          title: A Wrinkle In Time
+          publisher: Ariel Books
+          genres:
+            -  Young Adult
+            -  Science Fantasy
+          pages: 218
+          publish_date: 1962-01-01
+          description: A Wrinkle in Time is the story of Meg Murry, a high-school-aged girl who is transported on an adventure through time and space with her younger brother Charles Wallace and her friend Calvin O'Keefe to rescue her father, a gifted scientist, from the evil forces that hold him prisoner on another planet.
